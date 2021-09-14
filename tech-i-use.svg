@@ -1,5 +1,5 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="920.146" height="349.546" viewBox="0 0 920.146 349.546">
-  <g id="Group_13" data-name="Group 13" transform="translate(-77.556 -53)">
+<svg xmlns="http://www.w3.org/2000/svg" width="920.146" height="350.308" viewBox="0 0 920.146 350.308">
+  <g id="Group_24" data-name="Group 24" transform="translate(-77.556 -53)">
     <g id="Group_2" data-name="Group 2" transform="translate(77.556 53)">
       <rect id="Rectangle_1" data-name="Rectangle 1" width="287.498" height="92.762" transform="translate(0 0)" fill="#61dafb"/>
       <g id="Group_1" data-name="Group 1" transform="translate(21.659 26.869)">
@@ -60,6 +60,33 @@ Components" transform="translate(-0.284 24.777)" fill="#fff" font-size="26" font
         </g>
       </g>
       <text id="_" data-name="💅" transform="translate(21.96 62.361)" font-size="46" font-family="AppleColorEmoji, Apple Color Emoji" letter-spacing="0.062em"><tspan x="0" y="0">💅</tspan></text>
+    </g>
+    <g id="Group_23" data-name="Group 23">
+      <g id="Group_18" data-name="Group 18" transform="translate(393.245 310.879)">
+        <g id="Group_8-3" data-name="Group 8" transform="translate(0 0)">
+          <path id="Path_9-2" data-name="Path 9" d="M0,0H287.755V92.429H0Z" transform="translate(0 0)" fill="#3f00a5"/>
+          <g id="Group_1-8" data-name="Group 1" transform="translate(97.244 15.584)">
+            <text id="Fauna_DB" data-name="Fauna DB" transform="translate(-0.284 44.777)" fill="#fff" font-size="33" font-family="HelveticaNeue, Helvetica Neue" letter-spacing="0.062em"><tspan x="0" y="0">Fauna DB</tspan></text>
+          </g>
+        </g>
+      </g>
+      <g id="fauna-logo-new-v2" transform="translate(422 334)">
+        <path id="Path_16" data-name="Path 16" d="M29.524,12.85A6.973,6.973,0,0,0,24.8,17.717a4.345,4.345,0,0,1-1.395,1.853l2.14,2.3-6.794-4.757L0,4s1.353,8.794,1.823,12.03c.331,2.282.9,3.3,2.693,4.342l.718.387,3.093,1.632L6.49,21.437l8.479,4.632-.055.125L5.786,21.962c.483,1.659,1.422,4.854,1.823,6.264A3.178,3.178,0,0,0,10,30.84l2.72,1,1.685-.664L12.263,32.6,1.56,46.188c7.112-6.61,13.133-8.96,17.538-10.882,5.62-2.434,9-4,11.213-9.61,1.574-3.941,2.8-8.988,4.364-10.938L38,10.5S31.112,12.324,29.524,12.85Z" fill="#fff"/>
+      </g>
+    </g>
+    <g id="Group_22" data-name="Group 22">
+      <g id="Group_21" data-name="Group 21">
+        <g id="Group_20" data-name="Group 20" transform="translate(709.689 310.116)">
+          <g id="Group_8-4" data-name="Group 8" transform="translate(0 0)">
+            <path id="Path_9-3" data-name="Path 9" d="M0,0H287.755V92.429H0Z" transform="translate(0 0)" fill="#f99f40"/>
+            <g id="d3js-plain" transform="translate(24.311 20.402)">
+              <path id="Path_17" data-name="Path 17" d="M72.622,25.7a12.516,12.516,0,0,0,2.938-8.068A12.651,12.651,0,0,0,62.9,5H47.986A28.646,28.646,0,0,1,56.7,14.128h6.2a3.511,3.511,0,1,1,0,7.021H59.242a26.464,26.464,0,0,1,.442,4.6,23.836,23.836,0,0,1-.43,4.53H62.9a3.69,3.69,0,0,1,0,7.373H56.74c-.462.7-.979,1.664-1.538,2.45a24.952,24.952,0,0,1-7.109,6.677H62.9A12.814,12.814,0,0,0,75.546,34.534c-.006.109-.015.137-.023.245.022-.3.038-.637.038-.94A12.71,12.71,0,0,0,72.622,25.7Z" transform="translate(-30.49)" fill="#fff"/>
+              <path id="Path_18" data-name="Path 18" d="M22.075,37.489v-.063c.025-.035.048-.1.073-.137s.053-.1.08-.138c0,0,0-.011,0-.012a20.581,20.581,0,0,0,3.415-11.371A20.8,20.8,0,0,0,4.848,5H1v9.128H4.848A11.655,11.655,0,0,1,16.515,25.764a11.539,11.539,0,0,1-1.084,4.888s0,.126-.007.131A11.786,11.786,0,0,1,4.849,37.65H1v9.128H4.848A20.9,20.9,0,0,0,22.075,37.489Z" fill="#fff"/>
+            </g>
+          </g>
+        </g>
+        <text id="D3.js" transform="translate(810 368)" fill="#fff" font-size="33" font-family="HelveticaNeue, Helvetica Neue" letter-spacing="0.062em"><tspan x="0" y="0">D3.js</tspan></text>
+      </g>
     </g>
   </g>
 </svg>
